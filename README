@@ -1,0 +1,4 @@
+C++ lacks a library for complex valued Airy functions. This is a
+simple class that exposes the Python module mpmath's Airy functions to
+C++. This serves as an intermediary step until a C++ implementation is
+finished.
